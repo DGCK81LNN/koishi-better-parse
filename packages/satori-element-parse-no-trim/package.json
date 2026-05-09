@@ -1,0 +1,12 @@
+{
+  "name": "@dgck81lnn/satori-element-parse-no-trim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "dependencies": {
+    "@satorijs/element": "^3"
+  }
+}
