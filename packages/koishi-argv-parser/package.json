@@ -1,0 +1,20 @@
+{
+  "name": "@dgck81lnn/koishi-argv-parser",
+  "version": "0.1.0",
+  "description": "Whitespace-preserving Koishi argv parser with a literal mode that skips interpolation parsing.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DGCK81LNN/koishi-better-parse.git"
+  },
+  "homepage": "https://github.com/DGCK81LNN/koishi-better-parse",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "@dgck81lnn/satori-element-input": "^0.1.0",
+    "koishi": "^4.17.0"
+  }
+}
