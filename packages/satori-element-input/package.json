@@ -1,0 +1,23 @@
+{
+  "name": "@dgck81lnn/satori-element-input",
+  "version": "0.1.0",
+  "description": "Whitespace-preserving parsing and processing utilities for Satori element input.",
+  "keywords": [
+    "koishi"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DGCK81LNN/koishi-better-parse.git"
+  },
+  "homepage": "https://github.com/DGCK81LNN/koishi-better-parse",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "@satorijs/element": "^3.2.0",
+    "cosmokit": "^1.8.1"
+  }
+}
