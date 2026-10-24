@@ -4,7 +4,8 @@
   "description": "Whitespace-preserving Koishi argv parser with a literal mode that skips interpolation parsing.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DGCK81LNN/koishi-better-parse.git"
+    "url": "https://github.com/DGCK81LNN/koishi-better-parse.git",
+    "directory": "packages/koishi-argv-parser"
   },
   "homepage": "https://github.com/DGCK81LNN/koishi-better-parse",
   "license": "MIT",

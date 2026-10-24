@@ -7,7 +7,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/DGCK81LNN/koishi-better-parse.git"
+    "url": "https://github.com/DGCK81LNN/koishi-better-parse.git",
+    "directory": "packages/satori-element-input"
   },
   "homepage": "https://github.com/DGCK81LNN/koishi-better-parse",
   "license": "MIT",
